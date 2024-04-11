@@ -7,7 +7,7 @@ app = 'spring-example-project-weathered-snowflake-5201'
 primary_region = 'ams'
 
 [build]
-  dockerfile = Dockerfile
+  dockerfile = "Dockerfile"
 
 [http_service]
   internal_port = 8080
