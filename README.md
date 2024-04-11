@@ -1,5 +1,9 @@
 # Simple button
 
+## Deployed application
+
+https://spring-example-project-weathered-snowflake-5201.fly.dev/
+
 ## How to start
 
 Make sure you have java 8 installed
